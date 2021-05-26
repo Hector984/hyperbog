@@ -1,3 +1,5 @@
 Esta es la historia de como estoy aprendiendo Git.
 
 Son muchos comandos en Git, pero poco a poco y con practica los voy a dominar
+
+Cambios que vamos a recuperar con git reser --soft
