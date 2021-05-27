@@ -6,3 +6,17 @@ body{
 h1{
     text-align: center;
 }
+
+#container{
+    width: 70%;
+    padding: 1em; 
+    text-align: center;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+    font-family: monospace;
+    color: #f3f;
+}
+
+#container h1{
+    font-size: 20px;;
+}
